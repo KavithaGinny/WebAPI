@@ -1,0 +1,15 @@
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\bin\Debug\netcoreapp2.1\WebAPINUnitTestProject.deps.json
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\bin\Debug\netcoreapp2.1\WebAPINUnitTestProject.runtimeconfig.json
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\bin\Debug\netcoreapp2.1\WebAPINUnitTestProject.runtimeconfig.dev.json
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\bin\Debug\netcoreapp2.1\WebAPINUnitTestProject.dll
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\bin\Debug\netcoreapp2.1\WebAPINUnitTestProject.pdb
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\obj\Debug\netcoreapp2.1\WebAPINUnitTestProject.csprojAssemblyReference.cache
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\obj\Debug\netcoreapp2.1\WebAPINUnitTestProject.csproj.CoreCompileInputs.cache
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\obj\Debug\netcoreapp2.1\WebAPINUnitTestProject.AssemblyInfoInputs.cache
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\obj\Debug\netcoreapp2.1\WebAPINUnitTestProject.AssemblyInfo.cs
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\obj\Debug\netcoreapp2.1\WebAPINUnitTestProject.dll
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\obj\Debug\netcoreapp2.1\WebAPINUnitTestProject.pdb
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\bin\Debug\netcoreapp2.1\nunit.engine.dll
+E:\FSD\Kavitha\WebAPI\WebAPINUnitTestProject\bin\Debug\netcoreapp2.1\nunit.engine.api.dll

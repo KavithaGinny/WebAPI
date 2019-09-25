@@ -1,0 +1,42 @@
+﻿@model WebAPI.Models.PODETAIL
+
+@{
+    ViewBag.Title = "DetailsPoDetail";
+}
+
+<h2>DetailsPoDetail</h2>
+
+<div>
+    <h4>PODETAIL</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PONO)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PONO)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QTY)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QTY)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ITCODE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ITCODE)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

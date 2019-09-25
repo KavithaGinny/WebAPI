@@ -1,0 +1,45 @@
+﻿@model IEnumerable<WebAPI.Models.PODETAIL>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreatePoDetail")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PONO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QTY)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ITCODE)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PONO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QTY)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ITCODE)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "EditPoDetail", new { id = item.PONO, itcode = item.ITCODE }) |
+            @Html.ActionLink("Details", "DetailsPoDetail", new { id=item.PONO }) |
+            @Html.ActionLink("Delete", "DeletePoDetail", new { id=item.PONO , itcode=item.ITCODE})
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,14 @@
+E:\FSD\Kavitha\WebAPI\WebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\FSD\Kavitha\WebAPI\WebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\FSD\Kavitha\WebAPI\WebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\FSD\Kavitha\WebAPI\WebTest\bin\Debug\WebTest.dll
+E:\FSD\Kavitha\WebAPI\WebTest\bin\Debug\WebTest.pdb
+E:\FSD\Kavitha\WebAPI\WebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\FSD\Kavitha\WebAPI\WebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\FSD\Kavitha\WebAPI\WebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\FSD\Kavitha\WebAPI\WebTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\FSD\Kavitha\WebAPI\WebTest\obj\Debug\WebTest.csprojAssemblyReference.cache
+E:\FSD\Kavitha\WebAPI\WebTest\obj\Debug\WebTest.csproj.CoreCompileInputs.cache
+E:\FSD\Kavitha\WebAPI\WebTest\obj\Debug\WebTest.csproj.CopyComplete
+E:\FSD\Kavitha\WebAPI\WebTest\obj\Debug\WebTest.dll
+E:\FSD\Kavitha\WebAPI\WebTest\obj\Debug\WebTest.pdb
